@@ -65,8 +65,8 @@ We explore and implement **four classification approaches** from scratch and/or 
 
 ```bash
 .
-├── cnn_digit.ipynb              # CNN implementation notebook
-├── knn_digit.py                 # KNN from-scratch + visualization
-├── bayesian_classifier.py       # Naive Bayesian classifier with geometric mean
-├── logistic_regression.py       # Logistic Regression with scikit-learn
+├── cnn_digit.ipynb                 # CNN implementation notebook
+├── knn_digit.ipynb                 # KNN from-scratch + visualization
+├── bayesian_classifier.ipynb       # Naive Bayesian classifier with geometric mean
+├── logistic_regression.ipynb       # Logistic Regression with scikit-learn
 ├── README.md                    
